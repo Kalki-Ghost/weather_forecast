@@ -1,0 +1,5 @@
+print("Welcome to band name generate website.")
+name = input("What is your name?\n")
+city = input("What is your city name?\n")
+pet = input("What is your pet name?\n")
+print(f"{name} band name is \"{city} {pet}\"")
